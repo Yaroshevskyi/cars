@@ -1,0 +1,11 @@
+*.pyc
+!.dockerignore
+!.gitignore
+__pycache__
+db.sqlite3
+.DS_Store
+migrations
+local_settings.py
+/media
+env
+.vscode
